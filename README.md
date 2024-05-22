@@ -1,5 +1,5 @@
 <div align="center">
-  <img height="150" src="https://sdk.bitmoji.com/render/panel/20054902-99930594646_21-s5-v1.png?transparent=1&palette=1&scale=2"  />
+  <img height="150" src="https://github.com/saiSribhashyam/saiSribhashyam/blob/main/Venkata%20Anantha%20Sai%20Sribhashyam.png?raw=true"  />
 </div>
 
 ###
