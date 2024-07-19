@@ -26,7 +26,7 @@
 
 ###
 
-<p align="left">I'm Venkata Anantha Sai from India<br><br>- 👨‍🎓 Student<br>- 🎓K L University 2025<br>- 📚 I'm currently learning Web development , DevOps<br>- 🏢 Currently looking for job / internships</p>
+<p align="left">I'm Venkata Anantha Sai <br><br>- 👨‍🎓 Student<br>- 🎓K L University 2025<br>- 📚 I'm currently learning Web development , DevOps<br>- 🏢 Currently looking for job / internships</p>
 
 ###
 
